@@ -1,0 +1,95 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Affiliate Tricks & Updates</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background: linear-gradient(135deg, #f06, #08f);
+            color: #fff;
+            text-align: center;
+        }
+        header {
+            padding: 20px;
+            background-color: #333;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5em;
+            color: #fff;
+        }
+        section {
+            padding: 40px 20px;
+        }
+        .container {
+            max-width: 1200px;
+            margin: auto;
+        }
+        h2 {
+            font-size: 2em;
+            margin-bottom: 20px;
+            color: #ffcc00;
+        }
+        p {
+            font-size: 1.2em;
+            line-height: 1.5;
+            margin-bottom: 20px;
+        }
+        .social-links a {
+            color: #fff;
+            text-decoration: none;
+            margin: 0 15px;
+            font-size: 1.5em;
+        }
+        footer {
+            background-color: #333;
+            padding: 20px;
+            color: #fff;
+        }
+    </style>
+</head>
+<body>
+
+    <header>
+        <h1>Affiliate Tricks & Updates</h1>
+    </header>
+
+    <section>
+        <div class="container">
+            <h2>Introduction to Affiliate Marketing</h2>
+            <p>Affiliate marketing is a process where you earn a commission by promoting other people's (or company's) products. You find a product you like, promote it to others, and earn a piece of the profit for each sale that you make.</p>
+            
+            <h2>Step-by-Step Guide</h2>
+            <p><strong>Step 1:</strong> Choose a niche that you are passionate about and has a good market demand.</p>
+            <p><strong>Step 2:</strong> Find affiliate programs and products within your niche.</p>
+            <p><strong>Step 3:</strong> Create quality content that promotes your chosen products. This could be through blogs, social media, videos, etc.</p>
+            <p><strong>Step 4:</strong> Share your content across various platforms to reach your target audience.</p>
+            <p><strong>Step 5:</strong> Analyze your performance and optimize your strategies to improve your earnings.</p>
+        </div>
+    </section>
+
+    <section>
+        <div class="container">
+            <h2>Connect with Me</h2>
+            <div class="social-links">
+                <a href="https://instagram.com/yourinstagram" target="_blank">Instagram</a>
+                <a href="https://wa.me/yourwhatsappnumber" target="_blank">WhatsApp</a>
+                <a href="https://youtube.com/youryoutubechannel" target="_blank">YouTube</a>
+            </div>
+        </div>
+    </section>
+
+    <footer>
+        <div class="container">
+            <p>Contact Information: <br>
+            Email: yourname@example.com <br>
+            Phone: (123) 456-7890</p>
+        </div>
+    </footer>
+
+</body>
+</html>
